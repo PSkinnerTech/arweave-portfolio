@@ -12,21 +12,8 @@ import {
 
 const projects = [
   {
-    title: "Arweave India",
-    period: "2023 - Present",
-    image: "/ai_logo.png",
-    description:
-      "Leading developer relations and community building initiatives in India",
-  },
-  {
-    title: "Community Labs",
-    period: "2022 - 2024",
-    image: "/clabs_logo.png",
-    description: "Contributed to ecosystem growth and developer education",
-  },
-  {
     title: "Developer DAO",
-    period: "2022",
+    period: "2022-2023",
     image: "/dd_logo.png",
     description: "Collaborated on web3 developer tooling and education",
   },

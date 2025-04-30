@@ -28,20 +28,16 @@ export function About() {
             transition={{ duration: 0.5, delay: 0.1 }}
           >
             <h2 className="text-4xl md:text-5xl font-bold">
-              Hey, it&apos;s Rohit!
+              Hey, it&apos;s Patrick!
             </h2>
             <p className="text-xl text-muted-foreground">
-              I&apos;m a Developer Relations Engineer based in India,
+              I&apos;m a Developer Relations Engineer based in Colombia,
               specializing in creating educational content and tools that
               simplify technical concepts. I&apos;m passionate about the Arweave
               ecosystem, where I believe in collaboration over competition.
             </p>
             <p className="text-xl text-muted-foreground">
-              My journey in the web3 space has been focused on building bridges
-              between complex technology and developers. Through my work at
-              Arweave India, Community Labs, and Developer DAO, I&apos;ve
-              consistently worked to make technology more accessible and
-              enjoyable to learn.
+              My journey in the web3 space started as a founder of a startup who found support in the Arweave ecosystem and the Developer DAO community.
             </p>
             <p className="text-xl text-muted-foreground">
               The following philosophy guides my work, as I always say 👇

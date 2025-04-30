@@ -12,7 +12,7 @@ export function Navigation() {
     <>
       <nav className="w-full px-4 py-4 flex justify-between items-center">
         <Link href="/" className="text-2xl font-semibold">
-          Rohit
+          Patrick
         </Link>
 
         {/* Desktop Navigation */}

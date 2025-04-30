@@ -28,7 +28,7 @@ export function Hero() {
           transition={{ duration: 0.5, delay: 0.1 }}
           className="text-5xl md:text-7xl font-bold tracking-tight"
         >
-          Rohit
+          Patrick
         </motion.h1>
         <motion.h2
           initial={{ opacity: 0, y: 20 }}
@@ -44,7 +44,7 @@ export function Hero() {
           transition={{ duration: 0.5, delay: 0.3 }}
           className="text-xl text-muted-foreground max-w-[600px]"
         >
-          Hey, I&apos;m Rohit! I create educational content and tools that make
+          Hey, I&apos;m Patrick! I create educational content and tools that make
           it super easy for anyone to learn new technical concepts. Currently,
           I&apos;m building in the Arweave ecosystem with this simple idea 👇
         </motion.p>
@@ -74,7 +74,7 @@ export function Hero() {
           className="flex gap-4 pt-4"
         >
           <a
-            href="https://x.com/ropats16"
+            href="https://x.com/pskinnertech"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-70"
@@ -82,7 +82,7 @@ export function Hero() {
             <FaXTwitter size={24} />
           </a>
           <a
-            href="https://youtube.com/rohitcpatharre"
+            href="https://youtube.com/@pskinnertech"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-70"
@@ -90,7 +90,7 @@ export function Hero() {
             <FaYoutube size={24} />
           </a>
           <a
-            href="https://discord.com/users/ropats16"
+            href="https://discord.com/users/pskinnertech"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-70"
@@ -107,7 +107,7 @@ export function Hero() {
         className="relative w-full md:w-5/12 aspect-square md:aspect-auto md:h-[600px]"
       >
         <Image
-          src="/pfp_new.png"
+          src="https://arweave.net/BMhgiaWSfeuZ0lTexTxgxMYkhxcWpGLZIV7aTZs2Gjs"
           alt="Profile Image"
           width={600}
           height={600}

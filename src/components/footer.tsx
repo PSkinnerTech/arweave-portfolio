@@ -65,7 +65,7 @@ export function Footer() {
             transition={{ duration: 0.5, delay: 0.3 }}
           >
             <a
-              href="https://x.com/ropats16"
+              href="https://x.com/pskinnertech"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:opacity-70"
@@ -73,7 +73,7 @@ export function Footer() {
               <FaXTwitter size={24} />
             </a>
             <a
-              href="https://youtube.com/rohitcpatharre"
+              href="https://youtube.com/@pskinnertech"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:opacity-70"
@@ -81,7 +81,7 @@ export function Footer() {
               <FaYoutube size={24} />
             </a>
             <a
-              href="https://discord.com/users/ropats16"
+              href="https://discord.com/users/pskinnertech"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:opacity-70"
@@ -95,7 +95,7 @@ export function Footer() {
             whileInView={{ opacity: 1 }}
             transition={{ duration: 0.5, delay: 0.4 }}
           >
-            <p>&copy; {new Date().getFullYear()} Rohit. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Patrick. All rights reserved.</p>
           </motion.div>
         </motion.div>
       </div>
